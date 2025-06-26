@@ -624,6 +624,12 @@ footer .inner .info .info_list li img{
     width: 180px;
     margin-bottom: 30px;
 }
+footer .inner .info .info_list .call p{
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 500;
+    color: #333;
+}
 footer .inner .info .info_list li a,
 footer .inner .info .info_list li p{
     display: block;
